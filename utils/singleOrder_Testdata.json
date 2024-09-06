@@ -1,0 +1,8 @@
+{
+    "item": "Sauce Labs Backpack",
+    "packageReceiver_firstName": "Tom",
+     "packageReceiver_lastName" :"Jerry",
+     "packageReceiver_postalCode" : "56432",
+     "toastMessage1" : "Thank you for your order!",
+     "toastMessage2" :"Your order has been dispatched, and will arrive just as fast as the pony can get there!"
+}

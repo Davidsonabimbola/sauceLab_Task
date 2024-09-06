@@ -1,0 +1,5 @@
+The sum of the items is: $29.99
+The sum of the items is: $39.98
+The sum of the items is: $47.97
+The number of order(s) placed is: 3 
+The customer is paying $51.81 in total

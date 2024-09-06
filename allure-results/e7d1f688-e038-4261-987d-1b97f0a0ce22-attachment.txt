@@ -1,0 +1,3 @@
+Status: 200
+Body: {"id":9223372036854750002,"category":{"id":0,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
+9223372036854750000

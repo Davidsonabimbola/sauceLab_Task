@@ -1,0 +1,3 @@
+The price of the product is: $29.99 
+The number of order(s) placed is: 1 
+The customer is paying $32.39 in total

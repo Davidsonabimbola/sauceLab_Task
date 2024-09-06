@@ -1,0 +1,2 @@
+Status: 200
+Body: {"id":5,"category":{"id":100,"name":"string"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
